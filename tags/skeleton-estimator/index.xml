@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>skeleton estimator on Jorge F. Silva</title>
+    <link>https://jorgesil77.github.io/tags/skeleton-estimator/</link>
+    <description>Recent content in skeleton estimator on Jorge F. Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jorge F. Silva 2019</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jorgesil77.github.io/tags/skeleton-estimator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lossy Source Coding and Model Identification: Connection with Zero-Rate Density Estimation and the Skeleton Estimator</title>
+      <link>https://jorgesil77.github.io/publication/usc-model/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/publication/usc-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Rate Density Estimation</title>
+      <link>https://jorgesil77.github.io/talk/zero-rate-density-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 13:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/talk/zero-rate-density-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

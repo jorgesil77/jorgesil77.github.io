@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astrometry on Jorge F. Silva</title>
+    <link>https://jorgesil77.github.io/tags/astrometry/</link>
+    <description>Recent content in Astrometry on Jorge F. Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jorge F. Silva 2019</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jorgesil77.github.io/tags/astrometry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Astrometry, Information Limits and Estimators</title>
+      <link>https://jorgesil77.github.io/talk/cmm-pucon-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/talk/cmm-pucon-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Jorge F. Silva</title>
+    <link>https://jorgesil77.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jorge F. Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jorge F. Silva 2019</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jorgesil77.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Almost Lossless Universal Source Coding over Envelope Families</title>
+      <link>https://jorgesil77.github.io/talk/almost-losless-usc-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/talk/almost-losless-usc-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astrometry, Information Limits and Estimators</title>
+      <link>https://jorgesil77.github.io/talk/cmm-pucon-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 13:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/talk/cmm-pucon-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Rate Density Estimation</title>
+      <link>https://jorgesil77.github.io/talk/zero-rate-density-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 13:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/talk/zero-rate-density-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

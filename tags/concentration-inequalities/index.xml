@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concentration inequalities on Jorge F. Silva</title>
+    <link>https://jorgesil77.github.io/tags/concentration-inequalities/</link>
+    <description>Recent content in concentration inequalities on Jorge F. Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Jorge F. Silva 2019</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://jorgesil77.github.io/tags/concentration-inequalities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lossy Source Coding and Model Identification: Connection with Zero-Rate Density Estimation and the Skeleton Estimator</title>
+      <link>https://jorgesil77.github.io/publication/usc-model/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/publication/usc-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shannon Entropy Estimation in infinite alphabets</title>
+      <link>https://jorgesil77.github.io/publication/entropy-infinity/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/publication/entropy-infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity-Regularized Tree-Structured Partition for Mutual Information Estimation</title>
+      <link>https://jorgesil77.github.io/publication/tsp-mi-est/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgesil77.github.io/publication/tsp-mi-est/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
